@@ -1,0 +1,3 @@
+Hey Guys.  Right now I am in the process of moving my Habari blog over to Marley, which uses git instead of a database.  Stay tuned!  I am going to try to gather all my posts from my typo blog, my posts from the Habari blog so that I have everything in one place.
+
+Levi
